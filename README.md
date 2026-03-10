@@ -1,10 +1,4 @@
 # Bitcoin-self-custody-Lab
-
-비트코인 자체 보관 연구소
-
-Experiments and notes about running a Bitcoin node, home mining, UTXO management, and self-custody setups.
-# 비트코인 자체 보관 연구소
-
 비트코인 노드 운영, 홈 마이닝, UTXO 관리 및 자체 보관 설정에 대한 실험과 기록을 정리하는 저장소입니다
 
 ## 다루는 주제
